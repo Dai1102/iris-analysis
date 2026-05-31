@@ -1,4 +1,3 @@
-数据分析新手上路写的不好还望海涵
 # 鸢尾花数据集数据分析与分类建模
 
 ## 项目简介
@@ -20,3 +19,5 @@
 1.  克隆仓库：`git clone https://github.com/你的用户名/iris-analysis.git`
 2.  安装依赖：`pip install -r requirements.txt`
 3.  运行 Jupyter Notebook：`jupyter notebook iris_analysis.ipynb`
+
+数据分析新手上路写的不好还望海涵
